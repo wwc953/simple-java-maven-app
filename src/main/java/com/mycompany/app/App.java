@@ -14,6 +14,9 @@ public class App
         System.out.println(new App().getMessage());
     }
 
+
+
+//23424
     private final String getMessage() {
         return message;
     }
