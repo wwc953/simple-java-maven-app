@@ -9,7 +9,7 @@ public class App
     private final String message = "Hello World!";
 			//QWEQW
     public App() {}
-
+//asdasdas
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
     }
